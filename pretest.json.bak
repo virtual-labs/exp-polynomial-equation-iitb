@@ -1,0 +1,38 @@
+[
+   {
+      "question": "The Golden Section Search Method is mainly used to",
+      "qid": 1,
+      "option_a": "Solve differential equations",
+      "option_b": "Find the root of an equation",
+      "option_c": "Find the minimum or maximum of a unimodal function",
+      "option_d": "Solve matrix equations",
+      "correct_option": "c"
+   },
+   {
+      "question": "The Golden Section Search Method is applicable when the function is",
+      "qid": 2,
+      "option_a": "Unimodal in the given interval",
+      "option_b": "Periodic",
+      "option_c": "Linear",
+      "option_d": "Discontinuous",
+      "correct_option": "a"
+   },
+   {
+      "question": "The value of the constant used in Golden Section Search is approximately",
+      "qid": 3,
+      "option_a": "0.382",
+      "option_b": "0.5",
+      "option_c": "0.618",
+      "option_d": "1.732",
+      "correct_option": "c"
+   },
+   {
+      "question": "In Golden Section Search, if the interval is [x<sub>l</sub>, x<sub>u</sub>] the interior point x<sub>l</sub> is",
+      "qid": 4,
+      "option_a": "x<sub>l</sub> + 0.618(x<sub>u</sub> - x<sub>l</sub>)",
+      "option_b": "x<sub>u</sub> - 0.618(x<sub>u</sub> - x<sub>l</sub>)",
+      "option_c": "x<sub>l</sub> - 0.618(x<sub>u</sub> - x<sub>l</sub>)",
+      "option_d": "x<sub>u</sub> + 0.618(x<sub>u</sub> - x<sub>l</sub>)",
+      "correct_option": "b"
+   }
+]

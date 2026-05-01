@@ -1,0 +1,39 @@
+[
+   {
+      "question": "If f(x<sub>1</sub>) < f(x<sub>2</sub>) while minimizing, the new interval becomes",
+      "qid": 1,
+      "option_a": "[x<sub>l</sub>, x<sub>2</sub>]",
+      "option_b": "[x<sub>l</sub>, x<sub>u</sub>]",
+      "option_c": "[x<sub>1</sub>, x<sub>2</sub>]",
+      "option_d": "[x<sub>2</sub>, x<sub>u</sub>]",
+      "correct_option": "a"
+   },
+   {
+      "question": "Golden Section Search is classified under",
+      "qid": 2,
+      "option_a": "Numerical differentiation methods",
+      "option_b": "Numerical integration methods",
+      "option_c": "Optimization methods",
+      "option_d": "Linear algebra methods",
+      "correct_option": "c"
+   },
+   {
+      "question": "One major advantage of the Golden Section Search Method is that",
+      "qid": 3,
+      "option_a": "It requires second derivatives",
+      "option_b": "It does not require derivatives of the function",
+      "option_c": "It works only for linear functions",
+      "option_d": "It solves simultaneous equations",
+      "correct_option": "b"
+   },
+   {
+      "question": "The Golden Section Search reduces the search interval using the ratio derived from",
+      "qid": 4,
+      "option_a": "Euler's constant",
+      "option_b": "Golden ratio",
+      "option_c": "Fibonacci series",
+      "option_d": "Taylor series",
+      "correct_option": "b"
+   }
+
+]

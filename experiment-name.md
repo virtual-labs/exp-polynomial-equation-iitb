@@ -1,0 +1,1 @@
+## Optimization - To find a minimum of a given objective function within the given interval using the golden section search method.
